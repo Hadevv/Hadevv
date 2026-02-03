@@ -8,12 +8,19 @@ Learning: Java • Rust (intermediate)
 
 ### Projects
 **🌾 Field4u** - Farmer-gleaner marketplace | `Next.js` `PostgreSQL` `OAuth` `Stripe` `Microservices` | 🔒 Private
+
 **🔐 [Cerbère Gateway](https://github.com/Hadevv/cerbere-gateway)** - Secure API gateway | `TypeScript` `Microservices`
+
 **📧 [UnsubMail](https://github.com/Hadevv/unsubmail)** - Mass newsletter unsubscribe CLI | `Rust` `Open source`
+
 **🎭 [Thalia Tickets](https://github.com/Hadevv/thalia-tickets)** - Theater booking system | `Laravel` `Vue 3`
+
 **🍷 [Mon Cellier](https://github.com/Hadevv/mon-cellier-react)** - Wine cellar manager | `React`
 
+✨ I like creating optimized, clean code • Code conventions • Open source • Optimizations ☕
+
 ### 📫 Let's Connect
+
 💡 Open to collaboration on interesting projects
 <!--
 **Hadevv/Hadevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
