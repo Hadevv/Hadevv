@@ -1,45 +1,20 @@
 ## Hey 👋 I'm Antoine
 
-Full Stack Developer → Software Developer  
-Building scalable web apps | Microservices enthusiast
+Full Stack Developer → Software Developer | Microservices enthusiast
 
-### 🛠️ Stack
+### Stack
+React • Next.js • TypeScript • Node.js • PHP/Laravel • Docker • CI/CD  
+Learning: Java • Rust (intermediate)
 
-**Frontend:** React, Next.js, TypeScript
-**Backend:** Node.js, PHP/Laravel
-**DevOps:** Docker, PostgreSQL, CI/CD  
-**Learning:** Java, Rust (intermediate)
+### Projects
+**🌾 Field4u** - Farmer-gleaner marketplace | `Next.js` `PostgreSQL` `OAuth` `Stripe` `Microservices` | 🔒 Private
+**🔐 [Cerbère Gateway](https://github.com/Hadevv/cerbere-gateway)** - Secure API gateway | `TypeScript` `Microservices`
+**📧 [UnsubMail](https://github.com/Hadevv/unsubmail)** - Mass newsletter unsubscribe CLI | `Rust` `Open source`
+**🎭 [Thalia Tickets](https://github.com/Hadevv/thalia-tickets)** - Theater booking system | `Laravel` `Vue 3`
+**🍷 [Mon Cellier](https://github.com/Hadevv/mon-cellier-react)** - Wine cellar manager | `React`
 
-### 🚀 Featured Projects
-
-**🌾 [Field4u](https://github.com/Hadevv)** - Farmer-gleaner marketplace platform  
-`Next.js` `PostgreSQL` `OAuth 2.0` `Stripe` `Microservices` `WebSocket`  
-🔒 Private • In production
-
-**🔐 [Cerbère Gateway](https://github.com/Hadevv/cerbere-gateway)** - Secure admin gateway for service control  
-`TypeScript` `API Gateway` `Security` `Microservices`  
-⭐ 1 star
-
-**📧 [UnsubMail](https://github.com/Hadevv/unsubmail)** - Rust CLI for mass newsletter unsubscribe  
-`Rust` `CLI` `Email automation` `Open source`  
-⭐ 2 stars
-
-**🎭 [Thalia Tickets](https://github.com/Hadevv/thalia-tickets)** - Theater booking management system  
-`Laravel 11` `Vue 3` `PHP` `Full stack`  
-⭐ 1 star
-
-**🍷 [Mon Cellier](https://github.com/Hadevv/mon-cellier-react)** - Wine cellar management app  
-`React` `JavaScript` `Frontend`  
-⭐ 3 stars • 🍴 1 fork
-
-**🎮 [SandBlock](https://github.com/Hadevv/sandblock)** - Minecraft Forge/NeoForge learning sandbox  
-`Java` `Minecraft modding` `Game dev`  
-⭐ 1 star
-
-### 📫 Let's Connect 
-
-💡 *Open to collaboration on interesting projects*
-
+### 📫 Let's Connect
+💡 Open to collaboration on interesting projects
 <!--
 **Hadevv/Hadevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
