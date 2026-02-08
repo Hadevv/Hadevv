@@ -2,7 +2,6 @@
 
 Full Stack Developer → Software Developer | Microservices enthusiast
 
-### Stack
 React • Next.js • TypeScript • Node.js • PHP/Laravel • Docker • CI/CD  
 Learning: Java • Rust (intermediate)
 
@@ -13,7 +12,7 @@ Learning: Java • Rust (intermediate)
 
 **📧 [UnsubMail](https://github.com/Hadevv/unsubmail)** - Mass newsletter unsubscribe CLI | `Rust` `Open source`
 
-**🎭 [Thalia Tickets](https://github.com/Hadevv/thalia-tickets)** - Theater booking system | `Laravel` `Vue 3`
+**🎭 [Thalia Tickets](https://github.com/Hadevv/thalia-tickets)** - Theater booking system | `Laravel`
 
 **🍷 [Mon Cellier](https://github.com/Hadevv/mon-cellier-react)** - Wine cellar manager | `React`
 
