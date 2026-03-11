@@ -7,7 +7,9 @@ Learning: Java
 ### Projects
 **🌾 Field4u** - Farmer-gleaner marketplace | `Next.js` `PostgreSQL` `OAuth` `Stripe` `Microservices` | 🔒 Private
 
-**🎭 [Thalia Tickets](https://github.com/Hadevv/thalia-tickets)** - Theater booking system | `Laravel`
+**🎭 [Thalia Tickets](https://github.com/Hadevv/thalia-tickets)** - Theater booking system | `Laravel` `PHP`
+
+**🎬 [BelgianProd](https://github.com/Hadevv/belgianprod-symfony)** - Movie Management Application | `Symfony` `PHP`
 
 **🔐 [Cerbère Gateway](https://github.com/Hadevv/cerbere-gateway)** - Secure API gateway | `TypeScript` `Microservices`
 
