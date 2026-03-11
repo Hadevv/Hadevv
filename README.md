@@ -1,20 +1,15 @@
 ## Hey 👋 I'm Antoine
+Full Stack Developer
 
-Full Stack Developer → Software Developer | Microservices enthusiast
-
-React • Next.js • TypeScript • Node.js • PHP/Laravel • Docker • CI/CD  
-Learning: Java • Rust (intermediate)
+React • Next.js • TypeScript • Node.js • PHP/Laravel/Symfony • Docker • CI/CD  
+Learning: Java
 
 ### Projects
 **🌾 Field4u** - Farmer-gleaner marketplace | `Next.js` `PostgreSQL` `OAuth` `Stripe` `Microservices` | 🔒 Private
-
-**🔐 [Cerbère Gateway](https://github.com/Hadevv/cerbere-gateway)** - Secure API gateway | `TypeScript` `Microservices`
-
-**📧 [UnsubMail](https://github.com/Hadevv/unsubmail)** - Mass newsletter unsubscribe CLI | `Rust` `Open source`
-
 **🎭 [Thalia Tickets](https://github.com/Hadevv/thalia-tickets)** - Theater booking system | `Laravel`
-
+**🔐 [Cerbère Gateway](https://github.com/Hadevv/cerbere-gateway)** - Secure API gateway | `TypeScript` `Microservices`
 **🍷 [Mon Cellier](https://github.com/Hadevv/mon-cellier-react)** - Wine cellar manager | `React`
+**📧 [UnsubMail](https://github.com/Hadevv/unsubmail)** - Mass newsletter unsubscribe CLI | `Rust` `Open source`
 
 ✨ I like creating optimized, clean code • Code conventions • Open source • Optimizations ☕
 
