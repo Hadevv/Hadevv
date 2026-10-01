@@ -2,7 +2,7 @@
 Full Stack Developer
 
 React • Next.js • TypeScript • Node.js • PHP/Laravel/Symfony • Docker • CI/CD  
-Learning: Java
+Java
 
 ### Projects
 **🌾 Field4u** - Farmer-gleaner marketplace | `Next.js` `PostgreSQL` `OAuth` `Stripe` `Microservices` | 🔒 Private
